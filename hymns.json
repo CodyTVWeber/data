@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Amazing Grace",
+    "author": "John Newton",
+    "year": 1772,
+    "lyrics": [
+      "Amazing grace, how sweet the sound",
+      "That saved a wretch like me",
+      "I once was lost, but now I'm found",
+      "Was blind, but now I see"
+    ],
+    "tune": "New Britain",
+    "meter": "8.6.8.6",
+    "theme": "Salvation"
+  },
+  {
+    "title": "How Great Thou Art",
+    "author": "Carl Gustav Boberg",
+    "year": 1885,
+    "lyrics": [
+      "O Lord my God, when I in awesome wonder",
+      "Consider all the worlds Thy hands have made",
+      "I see the stars, I hear the rolling thunder",
+      "Thy power throughout the universe displayed"
+    ],
+    "tune": "Sweden",
+    "meter": "11.10.11.10",
+    "theme": "Awe and Wonder"
+  },
+  {
+    "title": "Holy, Holy, Holy",
+    "author": "Reginald Heber",
+    "year": 1826,
+    "lyrics": [
+      "Holy, holy, holy, Lord God Almighty",
+      "Early in the morning our song shall rise to Thee",
+      "Holy, holy, holy, merciful and mighty",
+      "God in three persons, blessed Trinity"
+    ],
+    "tune": "Nicaea",
+    "meter": "11.12.12.10",
+    "theme": "Trinity"
+  }
+]
