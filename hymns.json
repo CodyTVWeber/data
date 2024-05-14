@@ -1,5 +1,6 @@
 [
   {
+    "objectId": 1,
     "title": "Amazing Grace",
     "author": "John Newton",
     "year": 1772,
@@ -15,6 +16,7 @@
     "theme": "Salvation"
   },
   {
+    "objectId": 2,
     "title": "How Great Thou Art",
     "author": "Carl Gustav Boberg",
     "year": 1885,
@@ -30,6 +32,7 @@
     "theme": "Awe and Wonder"
   },
   {
+    "objectId": 3,
     "title": "Holy, Holy, Holy",
     "author": "Reginald Heber",
     "year": 1826,
